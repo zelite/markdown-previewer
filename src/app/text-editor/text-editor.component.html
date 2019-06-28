@@ -1,0 +1,5 @@
+<mat-form-field class="text-editor">
+  <textarea cdkTextareaAutosize (input)="handleNewInput(currentText.value)" #currentText matInput
+            #autosize="cdkTextareaAutosize"
+            placeholder="Markdown Text" value="{{markdownText}}"></textarea>
+</mat-form-field>
