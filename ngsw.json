@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561743012419,
+  "timestamp": 1561809119234,
   "index": "/markdown-previewer/index.html",
   "assetGroups": [
     {
@@ -39,16 +39,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/markdown-previewer/assets/icons/icon-128x128.png": "f2f9e1418d83863904223dcf801de78a869c75b0",
-    "/markdown-previewer/assets/icons/icon-144x144.png": "2d9123ce14b8ea79f069c23f69e25ac08dfccbf1",
-    "/markdown-previewer/assets/icons/icon-152x152.png": "4e07ea851d8b1faf7b72eac07e37c983136752a3",
-    "/markdown-previewer/assets/icons/icon-192x192.png": "5857716c177dc380f617017cc213211a00bf1d81",
-    "/markdown-previewer/assets/icons/icon-384x384.png": "680b7d67059d8a046a6fb75d3944eea47e6f74ca",
-    "/markdown-previewer/assets/icons/icon-512x512.png": "2b7a7046c3cae8ad3e21206295ff5d3caaabd0dc",
-    "/markdown-previewer/assets/icons/icon-72x72.png": "1ffbbbe4dc049ccc981475c4c5d1fba6067f2dda",
-    "/markdown-previewer/assets/icons/icon-96x96.png": "60072f95413dc17996f00ee029b7ce94d59d642e",
+    "/markdown-previewer/assets/icons/icon-128x128.png": "78cce0c0da14732c6b18a522cac5fab8f1003440",
+    "/markdown-previewer/assets/icons/icon-144x144.png": "f575bb62197eec18ded7dba451a83b5d48cf8ec0",
+    "/markdown-previewer/assets/icons/icon-152x152.png": "5c11b03d0229d8b233a6b1af12a52b70ef98c52e",
+    "/markdown-previewer/assets/icons/icon-192x192.png": "6c0da0662420677ba9d01180621e89d548321623",
+    "/markdown-previewer/assets/icons/icon-384x384.png": "cc345136e3ab3a349d1bd1be7a8cf405e3b9dd51",
+    "/markdown-previewer/assets/icons/icon-512x512.png": "7d20954a17bd193bc5cd404265571ba5cc79795e",
+    "/markdown-previewer/assets/icons/icon-72x72.png": "ae0659fa3c5d08e082e9303064fba0149465d246",
+    "/markdown-previewer/assets/icons/icon-96x96.png": "7f0125e1235078847a84ce0b15f812c322cba153",
     "/markdown-previewer/favicon.ico": "2a66e3a1a06f4606d070ee25befa784550f8f461",
-    "/markdown-previewer/index.html": "ce6fbbba3cac416df4935f53dbe448987894a413",
+    "/markdown-previewer/index.html": "f661469161e16c96d547f7d1d7f89c3de16931d1",
     "/markdown-previewer/main-es2015.8c75c6d33b54f56c5f64.js": "c51a04f9d52c16b8db3e55e334dc62f96693b910",
     "/markdown-previewer/main-es5.15c803f60f26012decc0.js": "a1381f6464c55bc173a16ac66e52a3e5981eaeba",
     "/markdown-previewer/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
