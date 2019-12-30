@@ -7,7 +7,7 @@ import marked from 'marked';
   styleUrls: ['./text-preview.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
-export class TextPreviewComponent{
+export class TextPreviewComponent {
   renderedHtml = '';
 
   @Input() set markdownText(value: string) {
