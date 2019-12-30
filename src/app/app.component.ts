@@ -14,10 +14,10 @@ export class AppComponent implements OnInit {
 Paragraphs are separated
 by a blank line.
 
-Two spaces at the end of a line  
+Two spaces at the end of a line
 produces a line break.
 
-Text attributes _italic_, 
+Text attributes _italic_,
 **bold**, \`monospace\`.
 
 Horizontal rule:
@@ -37,8 +37,6 @@ Numbered list:
   3. repeat
 
 An [example](http://example.com)
-
-![Image](Icon-pictures.png "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
